@@ -1,7 +1,7 @@
 
 # wox-MD
 
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/feedc19b6718353a06a56.jpg"/></a>
+<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/5915593bd4befc6fdaf2e.jpg"/></a>
 
 <p align='center'>
     </p>
@@ -15,4 +15,4 @@
 
 ---------------------------------   
 
- ###  Developer :- mohamed bella 
+ ###  Developer :- younes elyoussfi
